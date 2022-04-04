@@ -1,0 +1,14 @@
+.cardContainer{
+    padding: 20px;
+    width: 100%;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+}
